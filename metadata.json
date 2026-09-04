@@ -1,0 +1,6 @@
+{
+  "name": "Ocean Miami Boats",
+  "description": "Miami's premier luxury boat rental and yacht charters in Biscayne Bay, sandbars, and islands with authentic Miami tropical luxury.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
